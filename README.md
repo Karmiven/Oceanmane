@@ -1,7 +1,7 @@
 
 # 🌊 Oceanmane Village & The Corrupted Depths - Custom WoW Expansion  
 
-A custom **level 85 five-player questline & boss encounter** for **AzerothCore (WOTLK 3.3.5)**, featuring **Oceanmane Village**, a lost Tauren outpost hidden within **Silithus**, and the **corruption threatening its survival**.  
+A custom **level 80 five-player questline & boss encounter** for **AzerothCore (WOTLK 3.3.5)**, featuring **Oceanmane Village**, a lost Tauren outpost hidden within **Silithus**, and the **corruption threatening its survival**.  
 
 ---
 
@@ -74,8 +74,8 @@ Elder Rohatu (601017), the Oceanmane Village elder, seeks **brave champions** to
 | 601012     | Grakhan Deepcurrent     | Warrior Trainer         |
 | 601013     | Tamuun Saltbinder       | Banker                   |
 | 601014     | Mazali Seastrider       | Reagents                 |
-| 601015     | Rohka Fartrader         |                          |
-| 601016     | Crestwatcher            |                          |
+| 601015     | Rohka Fartrader         | Auctioneer                         |
+| 601016     | Crestwatcher            | Guards                         |
 | 601017     | Elder Rohatu            | Oceanmane Elder          |
 | 601030     | Cowlie                  | The Milker               |
 | 601031     | Cutie Pig               | For Alice                |
