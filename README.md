@@ -85,11 +85,17 @@ Elder Rohatu (601017), the Oceanmane Village elder, seeks **brave champions** to
 ---
 
 ## 📜 **Installation**  
+
 1. **Ensure your AzerothCore server is running** (3.3.5 WOTLK).  
-2. **Execute the SQL script** in your database:  
-   - Add Oceanmane Village NPCs & bosses to `creature_template`.  
-   - Insert SmartAI logic into `smart_scripts`.  
-3. **Restart the server** to apply changes.  
+
+2. **Execute the SQL scripts** in your database:  
+   - `Enemies.sql` – Adds corrupted satyrs, spirits, and Zharkalis.  
+   - `NPC.sql` – Adds Elder Rohatu and Vaerostraz.  
+   - `GameObjects.sql` – Adds world objects for Oceanmane Village.  
+
+3. **Place the Lua script** (`TidesofCorruption.lua`) in your `scripts` folder.  
+
+4. **Restart the server** to apply changes.  
 
 ---
 
