@@ -170,7 +170,7 @@ INSERT INTO `creature` (`guid`, `id1`, `id2`, `id3`, `map`, `zoneId`, `areaId`, 
 
 
 -- ***********************************************
--- * Kautha Windstring (Bowyer & Fetching Goods) *
+-- * Kautha Windstring (Bowyer & Fetching Goods)  *
 -- *     (601008)                                *
 --************************************************
 DELETE FROM `creature_template` WHERE (`entry` = 601008);
@@ -476,12 +476,6 @@ DELETE FROM `creature_template_model` WHERE (`CreatureID` = 601017);
 INSERT INTO `creature_template_model` (`CreatureID`, `Idx`, `CreatureDisplayID`, `DisplayScale`, `Probability`, `VerifiedBuild`) VALUES
 (601017, 0, 4307, 1, 1, 12340);
 
-DELETE FROM `creature_template_spell` WHERE (`CreatureID` = 601017);
-INSERT INTO `creature_template_spell` (`CreatureID`, `Index`, `Spell`, `VerifiedBuild`) VALUES
-(601017, 0, 15284, 12340),
-(601017, 1, 16856, 12340),
-(601017, 2, 23931, 12340),
-(601017, 3, 59705, 12340);
 
 DELETE FROM `creature_template_spell` WHERE (`CreatureID` = 601017);
 INSERT INTO `creature_template_spell` (`CreatureID`, `Index`, `Spell`, `VerifiedBuild`) VALUES
@@ -493,6 +487,39 @@ INSERT INTO `creature_template_spell` (`CreatureID`, `Index`, `Spell`, `Verified
 DELETE FROM `creature` WHERE (`id1` = 601017);
 INSERT INTO `creature` (`guid`, `id1`, `id2`, `id3`, `map`, `zoneId`, `areaId`, `spawnMask`, `phaseMask`, `equipment_id`, `position_x`, `position_y`, `position_z`, `orientation`, `spawntimesecs`, `wander_distance`, `currentwaypoint`, `curhealth`, `curmana`, `MovementType`, `npcflag`, `unit_flags`, `dynamicflags`, `ScriptName`, `VerifiedBuild`, `CreateObject`, `Comment`) VALUES
 (9001792, 601017, 0, 0, 1, 0, 0, 1, 1, 1, -10704.5, 2484.9, 7.92167, 3.45417, 300, 0, 0, 5217200, 0, 0, 0, 0, 0, '', NULL, 0, NULL);
+
+
+-- *****************************
+-- *  Vaerostraz (Corrupted)   *
+-- *  (601024)                 *
+-- *****************************
+
+DELETE FROM `creature_template` WHERE (`entry` = 601024);
+INSERT INTO `creature_template` (`entry`, `difficulty_entry_1`, `difficulty_entry_2`, `difficulty_entry_3`, `KillCredit1`, `KillCredit2`, `name`, `subname`, `IconName`, `gossip_menu_id`, `minlevel`, `maxlevel`, `exp`, `faction`, `npcflag`, `speed_walk`, `speed_run`, `speed_swim`, `speed_flight`, `detection_range`, `scale`, `rank`, `dmgschool`, `DamageModifier`, `BaseAttackTime`, `RangeAttackTime`, `BaseVariance`, `RangeVariance`, `unit_class`, `unit_flags`, `unit_flags2`, `dynamicflags`, `family`, `trainer_type`, `trainer_spell`, `trainer_class`, `trainer_race`, `type`, `type_flags`, `lootid`, `pickpocketloot`, `skinloot`, `PetSpellDataId`, `VehicleId`, `mingold`, `maxgold`, `AIName`, `MovementType`, `HoverHeight`, `HealthModifier`, `ManaModifier`, `ArmorModifier`, `ExperienceModifier`, `RacialLeader`, `movementId`, `RegenHealth`, `mechanic_immune_mask`, `spell_school_immune_mask`, `flags_extra`, `ScriptName`, `VerifiedBuild`) VALUES
+(601024, 0, 0, 0, 0, 0, 'Vaerostraz (Corrupted)', NULL, NULL, 0, 80, 80, 1, 35, 0, 0.66667, 1.14286, 1, 1, 20, 1, 0, 0, 0.3, 2000, 2000, 1, 1, 1, 33587970, 2052, 0, 0, 0, 0, 0, 0, 2, 4, 0, 0, 0, 0, 0, 0, 0, '', 1, 1, 0.6, 0.6, 1, 1, 0, 0, 1, 0, 0, 0, '0', 12340);
+
+DELETE FROM `creature_template_model` WHERE (`CreatureID` = 601024);
+INSERT INTO `creature_template_model` (`CreatureID`, `Idx`, `CreatureDisplayID`, `DisplayScale`, `Probability`, `VerifiedBuild`) VALUES
+(601024, 0, 19980, 1, 1, 12340);
+
+DELETE FROM `creature` WHERE (`id1` = 601024);
+INSERT INTO `creature` (`guid`, `id1`, `id2`, `id3`, `map`, `zoneId`, `areaId`, `spawnMask`, `phaseMask`, `equipment_id`, `position_x`, `position_y`, `position_z`, `orientation`, `spawntimesecs`, `wander_distance`, `currentwaypoint`, `curhealth`, `curmana`, `MovementType`, `npcflag`, `unit_flags`, `dynamicflags`, `ScriptName`, `VerifiedBuild`, `CreateObject`, `Comment`) VALUES
+(9008141, 601024, 0, 0, 1, 0, 0, 1, 1, 0, -10651, 2100.62, -46.3323, 1.11138, 300, 0, 0, 10142, 0, 0, 0, 0, 0, '', NULL, 0, NULL);
+
+
+
+-- ******************************
+-- *  Vaerostraz the Tidekeeper *
+-- *  (601025)                  *
+-- ******************************
+DELETE FROM `creature_template` WHERE (`entry` = 601025);
+INSERT INTO `creature_template` (`entry`, `difficulty_entry_1`, `difficulty_entry_2`, `difficulty_entry_3`, `KillCredit1`, `KillCredit2`, `name`, `subname`, `IconName`, `gossip_menu_id`, `minlevel`, `maxlevel`, `exp`, `faction`, `npcflag`, `speed_walk`, `speed_run`, `speed_swim`, `speed_flight`, `detection_range`, `scale`, `rank`, `dmgschool`, `DamageModifier`, `BaseAttackTime`, `RangeAttackTime`, `BaseVariance`, `RangeVariance`, `unit_class`, `unit_flags`, `unit_flags2`, `dynamicflags`, `family`, `trainer_type`, `trainer_spell`, `trainer_class`, `trainer_race`, `type`, `type_flags`, `lootid`, `pickpocketloot`, `skinloot`, `PetSpellDataId`, `VehicleId`, `mingold`, `maxgold`, `AIName`, `MovementType`, `HoverHeight`, `HealthModifier`, `ManaModifier`, `ArmorModifier`, `ExperienceModifier`, `RacialLeader`, `movementId`, `RegenHealth`, `mechanic_immune_mask`, `spell_school_immune_mask`, `flags_extra`, `ScriptName`, `VerifiedBuild`) VALUES
+(601025, 0, 0, 0, 0, 0, 'Vaerostraz the Tidekeeper', '', '', 0, 50, 52, 0, 35, 0, 1, 1.14286, 1, 1, 20, 1, 0, 0, 1, 2000, 2000, 1, 1, 1, 0, 2048, 0, 0, 0, 0, 0, 0, 2, 0, 0, 0, 0, 0, 0, 0, 0, '', 0, 1, 1.25, 1, 1, 1, 0, 273, 1, 0, 0, 0, '', 12340);
+
+
+DELETE FROM `creature_template_model` WHERE (`CreatureID` = 601025);
+INSERT INTO `creature_template_model` (`CreatureID`, `Idx`, `CreatureDisplayID`, `DisplayScale`, `Probability`, `VerifiedBuild`) VALUES
+(601025, 0, 25835, 1, 0, 0);
 
 
 
@@ -510,4 +537,5 @@ INSERT INTO `creature_template_model` (`CreatureID`, `Idx`, `CreatureDisplayID`,
 
 INSERT INTO `creature` (`guid`, `id1`, `id2`, `id3`, `map`, `zoneId`, `areaId`, `spawnMask`, `phaseMask`, `equipment_id`, `position_x`, `position_y`, `position_z`, `orientation`, `spawntimesecs`, `wander_distance`, `currentwaypoint`, `curhealth`, `curmana`, `MovementType`, `npcflag`, `unit_flags`, `dynamicflags`, `ScriptName`, `VerifiedBuild`, `CreateObject`, `Comment`) VALUES
 (9001788, 31144, 0, 0, 1, 0, 0, 1, 1, 0, -10688, 2450.9, 8.25502, 2.70529, 300, 0, 0, 3, 0, 0, 0, 0, 0, '', NULL, 0, NULL);
+
 
