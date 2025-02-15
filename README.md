@@ -81,6 +81,13 @@ Elder Rohatu (601017), the Oceanmane Village elder, seeks **brave champions** to
 | 601030     | Cowlie                  | The Milker               |
 | 601031     | Cutie Pig               | For Alice                |
 
+---
+
+| Quest  ID | Name                      |
+|------------|---------------------------|
+| 100050     | The Tides of Corruption       |
+| 601019     | Tidecorrupt Trickster     |
+
 
 ---
 
