@@ -75,10 +75,10 @@ Elder Rohatu (601017), the Oceanmane Village elder, seeks **brave champions** to
 | 601014     | Mazali Seastrider       | Reagents                 |
 | 601015     | Rohka Fartrader         | Auctioneer                         |
 | 601016     | Crestwatcher            | Guards                         |
-| 601017     | Elder Rohatu            | Oceanmane Elder          |
+| 601017     | Elder Rohatu            | Oceanmane Elder    *(Quest Giver #100050)*      |
 | 601024       | Vaerostraz (Corrupted) |
 | 601025       | Vaerostraz the Tidekeeper |
-| 601026     | Thalgrun Wavebreaker |
+| 601026     | Thalgrun Wavebreaker | *(Quest Giver #100051)* |
 | 601030     | Cowlie                  | The Milker               |
 | 601031     | Cutie Pig               | For Alice                |
 
