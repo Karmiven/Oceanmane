@@ -533,9 +533,9 @@ DELETE FROM `creature_equip_template` WHERE (`CreatureID` = 601026);
 INSERT INTO `creature_equip_template` (`CreatureID`, `ID`, `ItemID1`, `ItemID2`, `ItemID3`, `VerifiedBuild`) VALUES
 (601026, 1, 12754, 0, 14642, 18019);
 
-DELETE FROM `creature` WHERE (`id1` = 26432);
+DELETE FROM `creature` WHERE (`id1` = 601026);
 INSERT INTO `creature` (`guid`, `id1`, `id2`, `id3`, `map`, `zoneId`, `areaId`, `spawnMask`, `phaseMask`, `equipment_id`, `position_x`, `position_y`, `position_z`, `orientation`, `spawntimesecs`, `wander_distance`, `currentwaypoint`, `curhealth`, `curmana`, `MovementType`, `npcflag`, `unit_flags`, `dynamicflags`, `ScriptName`, `VerifiedBuild`, `CreateObject`, `Comment`) VALUES
-(9001794, 26432, 0, 0, 1, 0, 0, 1, 1, 0, -10787.1, 2428, 5.1556, 5.87627, 300, 7, 0, 7645, 0, 1, 0, 0, 0, '', NULL, 0, NULL);
+(9001794, 601026, 0, 0, 1, 0, 0, 1, 1, 0, -10787.1, 2428, 5.1556, 5.87627, 300, 7, 0, 7645, 0, 1, 0, 0, 0, '', NULL, 0, NULL);
 
 
 -- *********************************
