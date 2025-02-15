@@ -24,11 +24,11 @@ Nestled along the **southwestern shores of Kalimdor**, **Oceanmane Village** was
 ## 🏆 **Questline: "The Corrupted Depths"**  
 Elder Rohatu (601017), the Oceanmane Village elder, seeks **brave champions** to **purge the corruption** from their sacred caves.  
 
-🔹 **Quest 1 - Clearing the Corruption**  
+🔹 **Quest #1 - Clearing the Corruption**  
 - Defeat **Tidecorrupt Stalker (601018)**, **Tidecorrupt Trickster (601019)**, and **Tidecorrupt Defiler (601020)**.  
 - Banish **Twisted Oceanmane Spirits (601021)**, fallen ancestors turned into wraiths.  
 
-🔹 **Quest 2 2 - The Corrupted Plant Horror (601023)**  
+🔹 **Quest #2 - The Corrupted Plant Horror (601023)**  
 - **Zharkalis the Whispering has conjured a monstrous plant horror** to block any who would try to stop him.  
 - The **massive, corrupted horror** must be defeated to open the path to Zharkalis.  
 - With the **Corrupted Plant Horror slain**, adventurers can now **confront Zharkalis the Whispering** himself.  
