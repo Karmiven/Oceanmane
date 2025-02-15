@@ -24,22 +24,13 @@ Nestled along the **southwestern shores of Kalimdor**, **Oceanmane Village** was
 ## 🏆 **Questline: "The Corrupted Depths"**  
 Elder Rohatu (601017), the Oceanmane Village elder, seeks **brave champions** to **purge the corruption** from their sacred caves.  
 
-🔹 **Phase 1 - Clearing the Corruption**  
+🔹 **Quest 1 - Clearing the Corruption**  
 - Defeat **Tidecorrupt Stalker (601018)**, **Tidecorrupt Trickster (601019)**, and **Tidecorrupt Defiler (601020)**.  
 - Banish **Twisted Oceanmane Spirits (601021)**, fallen ancestors turned into wraiths.  
 
-🔹 **Phase 2 - The Corrupted Plant Horror (601023)**  
+🔹 **Quest 2 2 - The Corrupted Plant Horror (601023)**  
 - **Zharkalis the Whispering has conjured a monstrous plant horror** to block any who would try to stop him.  
 - The **massive, corrupted horror** must be defeated to open the path to Zharkalis.  
-
-🔹 **Boss Fight - Corrupted Plant Horror Mechanics**  
-- 🌿 **Entangling Roots** – Roots players in place.  
-- ⚔️ **Cleave & Thorn Volley** – Group-wide AoE burst.  
-- ☣️ **Black Rot & Creeper Venom** – Stacking debuffs that pressure healers.  
-- 🔥 **Enrage at 10-40% HP** – Increased **attack frequency**.  
-- 💀 **Final Explosion on Death** – A **last burst of corruption** upon defeat.  
-
-🔹 **Phase 3 - Zharkalis the Whispering & Vaerostraz the Tidekeeper**  
 - With the **Corrupted Plant Horror slain**, adventurers can now **confront Zharkalis the Whispering** himself.  
 - **Zharkalis' dark magic** has corrupted the **Oceanmane Guardian Dragon, Vaerostraz the Tidekeeper**, forcing him into battle.  
 - **Defeat Zharkalis**, break his **dark hold**, and **restore Vaerostraz to his rightful form**.  
