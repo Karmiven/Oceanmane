@@ -88,7 +88,7 @@ Elder Rohatu (601017), the Oceanmane Village elder, seeks **brave champions** to
 | Quest  ID | Name                      |
 |------------|---------------------------|
 | 100050     | The Tides of Corruption       |
-| 601019     | Cleansing The Corruption     |
+| 100051    | Cleansing The Corruption     |
 
 
 ---
