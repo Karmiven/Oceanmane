@@ -55,7 +55,6 @@ Elder Rohatu (601017), the Oceanmane Village elder, seeks **brave champions** to
 | 601021     | Twisted Oceanmane Spirit  |
 | 601022     | Zharkalis the Whispering  |
 | 601023     | Corrupted Plant Horror    |
-| ????       | Vaerostraz the Tidekeeper |
 
 ---
 
@@ -77,8 +76,11 @@ Elder Rohatu (601017), the Oceanmane Village elder, seeks **brave champions** to
 | 601015     | Rohka Fartrader         | Auctioneer                         |
 | 601016     | Crestwatcher            | Guards                         |
 | 601017     | Elder Rohatu            | Oceanmane Elder          |
+| 601024       | Vaerostraz (Corrupted) |
+| 601025       | Vaerostraz the Tidekeeper |
 | 601030     | Cowlie                  | The Milker               |
 | 601031     | Cutie Pig               | For Alice                |
+
 
 ---
 
@@ -92,6 +94,12 @@ Elder Rohatu (601017), the Oceanmane Village elder, seeks **brave champions** to
 ---
 
 ## 🏆 **Acknowledgment**  
-This project builds upon the **Silithus Camp SQL work by StygianTheBeast**, which inspired the restoration of **Oceanmane Village**.  
+## 🏆 **Acknowledgment**  
+This project builds upon the **Silithus Camp SQL work by StygianTheBeast**, which inspired the restoration of **Oceanmane Village**. Their original work laid the foundation for expanding content in underdeveloped zones, allowing for new NPCs, quests, and world-building elements to enhance the player's experience.
+
+🔗 **Silithus Camp ** [https://stygianthebest.github.io/projects/sql-silithuscamp/](https://stygianthebest.github.io/projects/sql-silithuscamp/)
+
+By taking inspiration from these community-driven efforts, **The Tides of Corruption** expansion brings fresh, lore-friendly content to World of Warcraft's Silithus coastline, adding new enemies, an engaging storyline, and a fully realized faction presence in Oceanmane Village.
+
 
 
