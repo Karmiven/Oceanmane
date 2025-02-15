@@ -59,7 +59,7 @@ Elder Rohatu (601017), the Oceanmane Village elder, seeks **brave champions** to
 ---
 
 ## 👥 **NPCs & Oceanmane Villagers**  
-| Creature ID | Name                     | Sub Name                  |
+| Creature ID | Name                     | Sub Name                  
 |------------|-------------------------|--------------------------|
 | 26365      | Taunka Orphan           |                          |
 | 31144      | Grandmaster's Training Dummy |                      |
@@ -78,8 +78,10 @@ Elder Rohatu (601017), the Oceanmane Village elder, seeks **brave champions** to
 | 601017     | Elder Rohatu            | Oceanmane Elder          |
 | 601024       | Vaerostraz (Corrupted) |
 | 601025       | Vaerostraz the Tidekeeper |
+| 601026     | Thalgrun Wavebreaker |
 | 601030     | Cowlie                  | The Milker               |
 | 601031     | Cutie Pig               | For Alice                |
+
 
 ---
 
