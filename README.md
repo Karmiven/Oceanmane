@@ -94,7 +94,6 @@ Elder Rohatu (601017), the Oceanmane Village elder, seeks **brave champions** to
 ---
 
 ## 🏆 **Acknowledgment**  
-## 🏆 **Acknowledgment**  
 This project builds upon the **Silithus Camp SQL work by StygianTheBeast**, which inspired the restoration of **Oceanmane Village**. Their original work laid the foundation for expanding content in underdeveloped zones, allowing for new NPCs, quests, and world-building elements to enhance the player's experience.
 
 🔗 **Silithus Camp ** [https://stygianthebest.github.io/projects/sql-silithuscamp/](https://stygianthebest.github.io/projects/sql-silithuscamp/)
