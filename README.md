@@ -94,10 +94,17 @@ Elder Rohatu (601017), the Oceanmane Village elder, seeks **brave champions** to
 ---
 ##  **Gameobjects**
 
-| Quest  ID | Name                      |
-|------------|---------------------------|
-| 100050     | The Tides of Corruption       |
-| 100051    | Cleansing The Corruption     |
+| Game Object Name              | ID      |
+|--------------------------------|---------|
+| Forge               | 192572  |
+| Anvil                | 192019  |
+| Mailbox                       | 195629  |
+| Fishing Chair                 | 186475  |
+| Oily Blackmouth School        | 180682  |
+| School of Northern Salmon     | 189290  |
+| Deep Sea Monsterbelly School  | 192053  |
+
+
 ---
 
 ## 📜 **Installation**  
