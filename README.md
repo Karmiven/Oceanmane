@@ -107,7 +107,7 @@ Elder Rohatu (601017), the Oceanmane Village elder, seeks **brave champions** to
    - `NPC.sql` – Adds Elder Rohatu, Vaerostraz, Townsfolk, Vendors, Guards, etc.  
    - `GameObjects.sql` – Adds world objects for Oceanmane Village.  
 
-3. **Place the Lua script** (`TidesofCorruption.lua` and `CrestwatcherGuards.lua'`) in your `scripts` folder.  
+3. **Place the Lua script** (`TidesofCorruption.lua` and `CrestwatcherGuards.lua') in your `scripts` folder.  
 
 4. **Restart the server** to apply changes.  
 
