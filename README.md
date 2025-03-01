@@ -139,4 +139,9 @@ By taking inspiration from these community-driven efforts, **The Tides of Corrup
 ### Screenshot 5
 ![Screen5](Screen5.jpg)
 
+### Screenshot 6
+![Screen5](Screen6.jpg)
+
+### Screenshot 7
+![Screen5](Screen7.jpg)
 
