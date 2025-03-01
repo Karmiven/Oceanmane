@@ -122,3 +122,21 @@ By taking inspiration from these community-driven efforts, **The Tides of Corrup
 
 
 
+## Screenshots
+
+### Screenshot 1
+![Screen1](Screen1.jpg)
+
+### Screenshot 2
+![Screen2](Screen2.jpg)
+
+### Screenshot 3
+![Screen3](Screen3.jpg)
+
+### Screenshot 4
+![Screen4](Screen4.jpg)
+
+### Screenshot 5
+![Screen5](Screen5.jpg)
+
+
