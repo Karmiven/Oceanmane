@@ -104,7 +104,7 @@ Elder Rohatu (601017), the Oceanmane Village elder, seeks **brave champions** to
 
 2. **Execute the SQL scripts** in your database:  
    - `Enemies.sql` – Adds corrupted satyrs, spirits, and Zharkalis.  
-   - `NPC.sql` – Adds Elder Rohatu and Vaerostraz.  
+   - `NPC.sql` – Adds Elder Rohatu, Vaerostraz, Townsfolk, Vendors, Guards, etc.  
    - `GameObjects.sql` – Adds world objects for Oceanmane Village.  
 
 3. **Place the Lua script** (`TidesofCorruption.lua`) in your `scripts` folder.  
